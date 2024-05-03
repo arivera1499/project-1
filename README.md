@@ -1,3 +1,9 @@
+# project-1
+A shared repo for first project
+
+### Google Slide Link
+https://docs.google.com/presentation/d/1WF8fXsHKZk8qfGdtTBMJlc4rfrv4XwuZlIbYiCkNRcI/edit?usp=sharing
+
 # Analysis
 ----
 The goal of this project was to build an easy-to-understand formula to convince investors that the future product would have a great ROI.
