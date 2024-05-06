@@ -41,6 +41,7 @@ Genre:
 When looking at the genres we didn’t know what we would expect to find. Many films will consist of multiple genres so similarly to the other categories we found the top 10 genres that average the most amount per movie. To our surprise, Crime was actually at the top of the list with romance following closely behind.
 
 Our suggestion would be to select three genres at most from the top 10 highest averaging when deciding to make a film. Usually people tend to select genres that will work well together but it would be interesting to mix different ends of the spectrum too which may make the audience want to come see the film even more
+
 ![image](https://github.com/arivera1499/project-1/assets/162939899/1916732a-8233-4e28-b638-ea439c3845d4)
 
 
@@ -48,6 +49,7 @@ Runtime:
 We took the runtime for the top 200 highest grossing films and set them on a scatter plot during this section. Finding the linear regression line for all the film we found a slight positive correlation the longer the runtime of the film itself is. Many longer films tend to have a more flushed out story and character development which could be causing audiences to like and recommend the movie more, increasing the overall amount grossed for a film.
 
 For the runtime we would suggest overall to make the film slightly longer to fit the trend line. There is an important note to be made though that it is possible to make a movie too long which would cause the audience to bore so it is important to be careful when deciding on the runtime. 
+
 ![image](https://github.com/arivera1499/project-1/assets/162939899/e3aac3a0-5c8e-4eb9-8554-3c07d258626a)
 
 Extras:
