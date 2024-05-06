@@ -13,6 +13,9 @@ Directors:
 When it came to directors we found the sum of the total amount made per movie as well as the average amount made per movie. Some notes of interest while analyzing the data was the tendency to be only one sole director per project. It was not completely unheard of to have multiple directors, such as with Joe and Anthony Russo, but most of the time there is usually one main director. This makes sense as if multiple directors work on a project together they could have disagreements with the direction of the movie and cause delays. 
 
 Since directors tend to have more experience with certain types of movies we felt it was reasonable to suggest to potential clients to choose a director that appeared on the top 10 total amount made and average made per movie. 
+![image](https://github.com/arivera1499/project-1/assets/162939899/bdf4b3db-6db5-449d-8d03-f6fbddc400ab)
+![image](https://github.com/arivera1499/project-1/assets/162939899/aef0b6e2-2efd-4200-9598-8bd494ee7bf0)
+
 
 Actors:
 Similar to directors we found the total sum of money made by each actor as well as the average amount made per movie. From both graphs we noticed that a lot of actors tend to work on similar projects together within the top 200 grossing. One interesting thing to note was that the total amount of money made by the 3 Harry Potter stars (Daniel Radcliffe, Rupert Grint, Emma Watson) was high but were exactly the same. This suggests that while they have found success working together on the series they haven't found nearly as much when working on individual projects.
